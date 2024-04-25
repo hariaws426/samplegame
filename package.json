@@ -23,7 +23,7 @@
     "lint:css": "stylelint '**/*.vue' --syntax scss"
   },
   "dependencies": {
-    "@babel/runtime": "^7.7.2",
+    "@babel/runtime": "^7.24.4",
     "ajv": "6.10.0",
     "axios": "^0.21.2",
     "compression": "^1.7.3",
